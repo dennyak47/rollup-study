@@ -1,0 +1,19 @@
+{
+  "name": "rollup-study",
+  "version": "1.0.0",
+  "description": "I want to study rollup. So I try to use it by myself at least once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennyak47/rollup-study.git"
+  },
+  "author": "Danny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dennyak47/rollup-study/issues"
+  },
+  "homepage": "https://github.com/dennyak47/rollup-study#readme"
+}
